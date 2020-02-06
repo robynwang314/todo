@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Random Quote Generator
 
-Things you may want to cover:
+This single-page to-do application features a fluid user interface that– by using JavaScript– allows users to rapidly add dynamic content.
 
-* Ruby version
+<img src="/app/assets/images/home.png" alt="Homepage">
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Link: https://todoster-robyn-wang.herokuapp.com/
+Github: https://github.com/robynwang314/todo
